@@ -1,3 +1,6 @@
 .topnav{
     display: flex;
 }
+.searchbar{
+    width: 50px;
+}
