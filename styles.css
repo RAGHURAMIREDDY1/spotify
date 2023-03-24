@@ -1,6 +1,28 @@
 .topnav{
     display: flex;
+    padding-left: 10vh;
+    align-items: center;
+    
 }
 .searchbar{
-    width: 50px;
+    width: 400px;
+    height: 25px;
+    margin-left: 40vh;
+}
+.homeicon{
+    display: flex;
+    flex-direction:column;
+}
+.sidenav{
+    padding-right: 10vh;
+    margin-top: 5vh;
+}
+.notif{
+    margin-left: 3vh;
+}
+.cam{
+    margin-left: 65vh;
+}
+.mic{
+    margin-left: 3vh;
 }
